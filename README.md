@@ -1,2 +1,2 @@
-# webcour
-Course about web development
+
+HTML, CSS, Bootstrap, JavaScript, JQuery, PHP, POO and MySQL 
