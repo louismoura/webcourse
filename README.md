@@ -1,2 +1,3 @@
+# Complete Web development course
 
-HTML, CSS, Bootstrap, JavaScript, JQuery, PHP, POO and MySQL 
+Complete web development course from Udemy using: HTML, CSS, Bootstrap, JavaScript, JQuery, PHP, POO and MySQL.
